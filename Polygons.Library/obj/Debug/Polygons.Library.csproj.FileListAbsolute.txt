@@ -1,0 +1,5 @@
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons.Library\bin\Debug\Polygons.Library.dll
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons.Library\bin\Debug\Polygons.Library.pdb
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons.Library\obj\Debug\Polygons.Library.csprojResolveAssemblyReference.cache
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons.Library\obj\Debug\Polygons.Library.dll
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons.Library\obj\Debug\Polygons.Library.pdb

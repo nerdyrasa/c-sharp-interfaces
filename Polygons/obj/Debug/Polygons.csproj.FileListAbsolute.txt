@@ -1,0 +1,11 @@
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons\bin\Debug\Polygons.exe.config
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons\bin\Debug\Polygons.exe
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons\bin\Debug\Polygons.pdb
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons\bin\Debug\Polygons.Library.dll
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons\bin\Debug\Polygons.Library.pdb
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons\obj\Debug\Polygons.csprojResolveAssemblyReference.cache
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons\obj\Debug\Polygons.exe
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\Polygons\Polygons\obj\Debug\Polygons.pdb
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\c-sharp-interfaces\Polygons\bin\Debug\Polygons.exe.config
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\c-sharp-interfaces\Polygons\obj\Debug\Polygons.exe
+C:\Users\rasai_000\Documents\Visual Studio 2015\Projects\c-sharp-interfaces\Polygons\obj\Debug\Polygons.pdb

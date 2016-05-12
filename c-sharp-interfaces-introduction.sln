@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons", "Polygons\Polygons.csproj", "{91E4C9AE-A9DF-444F-BBA2-FABB2CBBEEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons.Library", "Polygons.Library\Polygons.Library.csproj", "{35C38F3C-4702-4F3F-9F27-61F1F7569F2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c-sharp-interfaces-introduction", "c-sharp-interfaces-introduction", "{1FEA151D-1034-44CB-9DFB-DD9628EC0396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E4C9AE-A9DF-444F-BBA2-FABB2CBBEEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E4C9AE-A9DF-444F-BBA2-FABB2CBBEEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E4C9AE-A9DF-444F-BBA2-FABB2CBBEEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E4C9AE-A9DF-444F-BBA2-FABB2CBBEEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C38F3C-4702-4F3F-9F27-61F1F7569F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C38F3C-4702-4F3F-9F27-61F1F7569F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C38F3C-4702-4F3F-9F27-61F1F7569F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C38F3C-4702-4F3F-9F27-61F1F7569F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91E4C9AE-A9DF-444F-BBA2-FABB2CBBEEE7} = {1FEA151D-1034-44CB-9DFB-DD9628EC0396}
+		{35C38F3C-4702-4F3F-9F27-61F1F7569F2D} = {1FEA151D-1034-44CB-9DFB-DD9628EC0396}
+	EndGlobalSection
+EndGlobal
